@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Apple Music Controller</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Thu, 20 Feb 2025 14:27:27 -0800</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/MarcMV/aMusicControllerUpdater/releases/download/prod/Apple.Music.Controller.zip" length="1548389" type="application/octet-stream" sparkle:edSignature="kNZhwfi0Ae9B1euHXV9Uiu7ZgXYebAQR9rUnCmQSWt8OYeUJaz+4aNlqyAalqWJ2PXNl3G2KrcsGcbvA7yOIBQ=="/>
+        </item>
+    </channel>
+</rss>
