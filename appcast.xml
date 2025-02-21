@@ -3,12 +3,12 @@
     <channel>
         <title>Apple Music Controller</title>
         <item>
-            <title>1.02</title>
-            <pubDate>Thu, 20 Feb 2025 19:04:11 -0800</pubDate>
-            <sparkle:version>102</sparkle:version>
-            <sparkle:shortVersionString>1.02</sparkle:shortVersionString>
+            <title>1.03</title>
+            <pubDate>Fri, 21 Feb 2025 09:20:52 -0800</pubDate>
+            <sparkle:version>103</sparkle:version>
+            <sparkle:shortVersionString>1.03</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/MarcMV/aMusicControllerUpdater/releases/download/prod/Apple.Music.Controller.zip" length="1548443" type="application/octet-stream" sparkle:edSignature="D5Vutc/s9mfnIV8h1rrHs6UnhJZq0YYa0WgxqdRrxCQZjjadTMzIYcAsJWspQiOVkgCNx/sSZBfV4gKTKQtoBQ=="/>
+            <enclosure url="https://github.com/MarcMV/aMusicControllerUpdater/releases/download/prod/Apple.Music.Controller.zip" length="1608685" type="application/octet-stream" sparkle:edSignature="jTLpD2QIiDkZ4M/B0V0QtjvVWuJsTKYVU2F+PEe37zN0J4Mj22H1Em21E/pKAZ9O0fgGAZPPCuaIqmcKX2VsAg=="/>
         </item>
     </channel>
 </rss>
