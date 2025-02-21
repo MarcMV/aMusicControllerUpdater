@@ -8,7 +8,7 @@
             <sparkle:version>101</sparkle:version>
             <sparkle:shortVersionString>1.01</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/MarcMV/aMusicControllerUpdater/releases/download/prod/Apple.Music.Controller.zipp" length="1548425" type="application/octet-stream" sparkle:edSignature="SV2K7v36qWIcPBwyFj6reN+ADkqotOzLRjRJOepfPwRLLy3fZTt8w247BObVRHW17byVcdU7MxZb0j+6hazkDA=="/>
+            <enclosure url="https://github.com/MarcMV/aMusicControllerUpdater/releases/download/prod/Apple.Music.Controller.zip" length="1548425" type="application/octet-stream" sparkle:edSignature="SV2K7v36qWIcPBwyFj6reN+ADkqotOzLRjRJOepfPwRLLy3fZTt8w247BObVRHW17byVcdU7MxZb0j+6hazkDA=="/>
         </item>
     </channel>
 </rss>
